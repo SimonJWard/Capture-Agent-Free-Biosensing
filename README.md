@@ -1,4 +1,4 @@
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/OverviewFigure.png" width = "600" />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/OverviewFigure.png" width = "600" />
 # Capture Agent Free Biosensing
 
 ***
@@ -27,7 +27,7 @@ Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Analysis of machine lear
 Using machine learning applied to data from multiple cross-reactive biosensors to enable cheaper medical diagnostic tests which can better withstand harsh environments, a step towards improved worldwide healthcare access
 
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/MapAnimation.gif" width = "500" /> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/MapAnimation.gif" width = "500" /> 
 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/Approach.png" width = "800" /> 
