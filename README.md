@@ -4,9 +4,9 @@
 ***
 For full details, see the following publications:
 
-Ward, S. J., Cao, T., Zhou, X., Chang, C., & Weiss, S. M. (2023). Protein Identification and Quantification Using Porous Silicon Arrays, Optical Measurements, and Machine Learning. biosensors 13(9), 879, 1–12. doi: [10.3390/bios13090879](https://doi.org/10.3390/bios13090879)
+Ward, S. J., Cao, T., Zhou, X., Chang, C., & Weiss, S. M. (2023). Protein Identification and Quantification Using Porous Silicon Arrays, Optical Measurements, and Machine Learning. _biosensors_ __13__(9), 879, 1–12. doi: [10.3390/bios13090879](https://doi.org/10.3390/bios13090879)
 
-Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Analysis of machine learning techniques for capture agent free biosensing with porous silicon arrays. Proc. SPIE, 11979(1197907). doi: [10.1117/12.2614697](https://doi.org/10.1117/12.2614697)
+Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Analysis of machine learning techniques for capture agent free biosensing with porous silicon arrays. _Proc. SPIE_, __11979__(1197907). doi: [10.1117/12.2614697](https://doi.org/10.1117/12.2614697)
 
 ***
 ## Table of Contents
