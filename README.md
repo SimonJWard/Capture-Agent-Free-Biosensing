@@ -44,7 +44,7 @@ Porous silicon sensors were electrochemically etched at a current density of eit
 
 The sensor was used to identify and quantify three different proteins: chicken ovalbumin (OVA), bovine seruma albumin (BSA), and avidin, each with a unique combination of molecule size and isoelectric point, which both determine how readily they are captured in the pores, prepared in solutions using either pH4 or pH10 buffers.
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/ThreeProteinProperties.png" width = "800" /> 
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/ThreeProteinProperties.png" width = "400" /> 
 
 ***
 ### 3 Data Visualization
