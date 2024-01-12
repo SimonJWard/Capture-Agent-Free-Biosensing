@@ -11,17 +11,14 @@ Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Analysis of machine lear
 ***
 ## Table of Contents
 ### 1. Motivation
-### 2. Detection Limit
-### 3. Signal Processing Approaches
-#### 3.1 Reflectometric Inteferometric Fourier Transform Spectroscopy (RIFTS)
-#### 3.2 Interferometer Average over Wavelength (IAW)
-#### 3.3 Morlet Wavelet Phase Method
-### 4. Simulated Data
-### 5. Experimental Data
-#### 5.1 Porous Silicon
-#### 5.2 Data Collection @ Vanderbilt (Nashville, TN)
-#### 5.3 Data Collection @ Technion (Haifa, Israel)
-### 6. Open Source App 
+### 2. Experimental Data
+#### 2.1 Porous Silicon
+#### 2.2 Data Collection
+### 3. Data Visualization
+#### 3.1 Full Dataset
+#### 3.2 Dimensionality Reduced Dataset
+#### 3.3 Linear Discriminant Analysis Weightings
+### 4. Model Training & Evaluation
 ### 5. FAQs
 ### 6. Acknowledgements
 ***
@@ -36,38 +33,28 @@ Using machine learning applied to data from multiple cross-reactive biosensors t
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/Approach.png" width = "800" /> 
 
 ***
-### 2. Detection Limit
-
-***
-### 3. Signal Processing Approaches
-
-***
-#### 3.1 Reflectometric Inteferometric Fourier Transform Spectroscopy (RIFTS)
-
-***
-#### 3.2 Interferometer Average over Wavelength (IAW)
-
-***
-#### 3.3 Morlet Wavelet Phase Method
-
-***
-### 4. Simulated Data
-
-***
-### 5. Experimental Data
-#### 5.1 Porous Silicon
+## 2. Experimental Data
+### 2.1 Porous Silicon
 Porous Silicon (PSi) is silicon with nanostructured pores, which have been electrochemically etched using hydrofluoric acid. Below are shown some images on the scale of a few nanometres taken using an electron microscope, and and illustration of how molecules are captured and detected optically in the pores.
 
 ![](https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/PorousSilicon.gif)
+
+### 2.2 Data Collection
+Porous silicon sensors were fabricated
 ***
-#### 5.2 Data Collection @ Vanderbilt (Nashville, TN)
+### 3 Data Visualization
+#### 3.1 Full Dataset
+The full experimental dataset
+***
+#### 3.2 Dimensionality Reduced Dataset
 
 ***
-#### 5.3 Data Collection @ Technion (Haifa, Israel)
+#### 3.3 Linear Discriminant Analysis Weightings
 
 ***
-### 6. Open Source App 
+### 4 Model Training & Evaluation
 
+A broad selection of machine learning models were applied in this [notebook]()
 ***
 ## 5. FAQs
 
@@ -75,4 +62,3 @@ Porous Silicon (PSi) is silicon with nanostructured pores, which have been elect
 ## 6. Acknowledgements
 
 ***
-
