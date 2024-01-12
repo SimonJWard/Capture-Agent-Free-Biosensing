@@ -40,7 +40,12 @@ Porous Silicon (PSi) is silicon with nanostructured pores, which have been elect
 ![](https://github.com/SimonJWard/Response-Time-Reduction/blob/main/Figures/PorousSilicon.gif)
 
 ### 2.2 Data Collection
-Porous silicon sensors were fabricated
+Porous silicon sensors were electrochemically etched at a current density of either 55 mA cm−2, 40 mA cm−2, or 25 mA cm−2, to form thin films with different pore size distributions for the different elements in the sensing array, and diced into 5mm x 5mm squares.
+
+The sensor was used to identify and quantify three different proteins: chicken ovalbumin (OVA), bovine seruma albumin (BSA), and avidin, each with a unique combination of molecule size and isoelectric point, which both determine how readily they are captured in the pores, prepared in solutions using either pH4 or pH10 buffers.
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/ThreeProteinProperties.png" width = "800" /> 
+
 ***
 ### 3 Data Visualization
 #### 3.1 Full Dataset
