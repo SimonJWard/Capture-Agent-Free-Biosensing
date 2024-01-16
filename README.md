@@ -47,7 +47,7 @@ The sensor was used to identify and quantify three different proteins: chicken o
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/ThreeProteinProperties.png" width = "350" /> 
 
 ***
-### 3 Data Visualization
+### 3. Data Visualization
 #### 3.1 Underlying Optical Spectra
 Respresentative optical spectra of porous silicon fabricated with each of the three pore sizes used in this work are shown in this [notebook](Python/RawSpectraPlotPanes.ipynb).
 
@@ -66,7 +66,7 @@ The dimensionality of the original 6 dimensional dataset is reduced using linear
 #### 3.3 Linear Discriminant Analysis Weightings
 
 ***
-### 4 Model Training & Evaluation
+### 4. Model Training & Evaluation
 
 A broad selection of machine learning models were applied in this [notebook]()
 ***
