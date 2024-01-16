@@ -24,11 +24,11 @@ Ward, S. J., Cao, T., Chang, C., & Weiss, S. M. (2022). Analysis of machine lear
 ***
 ## 1. Motivation
 
-Using machine learning applied to data from multiple cross-reactive biosensors to enable cheaper medical diagnostic tests which can better withstand harsh environments, a step towards improved worldwide healthcare access
-
+Biosensors are an essential tool for medical diagnostics, environmental monitoring and food safety. Typically, biosensors are designed to detect harmful biological molecules (biomolecules) with the appropriate capture agents (receptor molecules that specifically bind with the target biomolecule). However, the use of capture agents limits the number of biomolecules that can be simultaneously detected and reduces the robustness of the biosensor to extreme climates (which often coincide with geographic regions which are low income and highly impacted by infectious disease).
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/MapAnimation.gif" width = "500" /> 
 
+In this work, we report a versatile, capture agent free biosensor platform based on an array of porous silicon (PSi) thin films, which has the potential to robustly detect a wide variety of biomolecules based on their physical and chemical properties in the nanoscale porous media. The ability of this system to reproducibly classify, quantify, and discriminate three proteins separately is demonstrated to concentrations down to at least 0.02mg/Lm (between 300nM and 450nM) by utilizing PSi array elements with a unique combination of pore size and buffer pH, along with machine learning analysis. Linear discriminant analysis is employed for dimensionality reduction and support vector machines are used as a classifier. This work represents a significant first step towards a low cost, simple and robust biosensor platform that is able to detect a vast range of biomolecules.
 
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/Approach.png" width = "800" /> 
 
