@@ -70,7 +70,7 @@ The dimensionality of the original 6 dimensional dataset is reduced using linear
 ***
 ## 4. Model Training & Evaluation
 
-A broad selection of machine learning models were applied in this [notebook]()
+A broad selection of machine learning models were applied <!-- in this [notebook]() -->
 ***
 ## 5. FAQs
 
