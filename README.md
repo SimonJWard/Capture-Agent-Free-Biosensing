@@ -61,11 +61,11 @@ The full experimental dataset, in terms of optical response (given using the Mor
 
 a) pH4 conditions shown in this [notebook](Python/TrainingDataSensorArrayResponsepH4.ipynb)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "SensorArrayProteinResponsepH4.png" width = "300" />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/SensorArrayProteinResponsepH4.png" width = "300" />
 
 b) pH10 conditions shown in this [notebook](Python/TrainingDataSensorArrayResponsepH10.ipynb)
 
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "SensorArrayProteinResponsepH10.png" width = "300" />
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/SensorArrayProteinResponsepH10.png" width = "300" />
 
 ***
 ### 3.2 Dimensionality Reduced Dataset
