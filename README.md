@@ -57,7 +57,16 @@ Respresentative optical spectra of porous silicon fabricated with each of the th
 
 ***
 ### 3.1 Full Dataset
-The full experimental dataset
+The full experimental dataset, in terms of optical response (given using the Morlet Wavelet Phase method) vs etching current density (proportional to porous silicon average pore size) vs concentration (g/L) for:
+
+a) pH4 conditions shown in this [notebook](Python/TrainingDataSensorArrayResponsepH4.ipynb)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "SensorArrayProteinResponsepH4.tif" width = "300" />
+
+b) pH10 conditions shown in this [notebook](Python/TrainingDataSensorArrayResponsepH10.ipynb)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "SensorArrayProteinResponsepH10.tif" width = "300" />
+
 ***
 ### 3.2 Dimensionality Reduced Dataset
 The dimensionality of the original 6 dimensional dataset is reduced using linear disrminant analysis (LDA) and is shown in this [notebook](Python/LDA_3DPlot_PairwiseAveraging.ipynb).
