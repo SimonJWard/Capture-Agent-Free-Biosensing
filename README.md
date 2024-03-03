@@ -62,7 +62,7 @@ The full experimental dataset
 ### 3.2 Dimensionality Reduced Dataset
 The dimensionality of the original 6 dimensional dataset is reduced using linear disrminant analysis (LDA) and is shown in this [notebook](Python/LDA_3DPlot_PairwiseAveraging.ipynb).
 
-<img src = "Figures/LDA_3DPlot_PairwiseAveraging.png" width = "300" />
+<img src = "Figures/LDA_3DPlot_PairwiseAveraging.png" width = "300" /> <img src = "Figures/LDA_Animation.gif" width = "300" />
 
 ***
 ### 3.3 Linear Discriminant Analysis Weightings
