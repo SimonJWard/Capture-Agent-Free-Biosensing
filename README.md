@@ -83,7 +83,10 @@ The lowest concentrations are shown in this [notebook](Python/LDA_3DPlot_Pairwis
 ***
 ## 4. Model Training & Evaluation
 
-A broad selection of machine learning models were applied <!-- in this [notebook]() -->
+A broad selection of machine learning models were applied in this [notebook](Python/ModelAccuracyComparison_PairwiseAveraging.ipynb)
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img src = "Figures/AlgorithmAccuracyComparison.png" width = "550" />
+
 ***
 ## 5. FAQs
 
